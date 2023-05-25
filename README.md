@@ -1,1 +1,1 @@
-# JGoodison.gtihub.io
+# JGoodison.github.io
